@@ -1,4 +1,3 @@
-# git_learningLearning Git Day 1
 # git_learning
 
 Learning Git Day 1
