@@ -14,3 +14,7 @@ Today I learned:
 ## Feature Header
 
 Practicing Git branches.
+
+## Feature Footer
+
+This is my footer feature branch.
