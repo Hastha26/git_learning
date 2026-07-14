@@ -11,3 +11,7 @@ Today I learned:
 - How to create a branch
 - How to switch branches
 - How to merge branches
+
+## Feature Header
+
+Practicing Git branches.
